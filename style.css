@@ -8,6 +8,14 @@ body {
 	background-size: cover;
 }
 
+.header{
+	color: #000000;
+    background-color: #ffbaba;
+    padding: 5px 14px;
+    margin: 10px 470px;
+    border-radius: 15px;
+}
+
 kbd {
 	display: inline-block;
 	border-radius: 3px;
@@ -118,10 +126,6 @@ input[type="color"i] {
 	background-color: #5e548e;
 }
 
-
-
-
-
 .button-cust {
 
 	align-items: center;
@@ -164,8 +168,6 @@ input[type="color"i] {
 	cursor: pointer;
 }
 
-
-
 .btnclass {
 	padding: 0.8em 1.8em;
 	border: 2px solid #17C3B2;
@@ -203,10 +205,7 @@ input[type="color"i] {
 	color: #111;
 }
 
-
 /* --------range slider -------------- */
-
-
 
 input[type="range"] {
 	margin: auto;
@@ -376,13 +375,10 @@ input[type="range"] {
 	transition-delay: none;
 }
 
-
 th {
 	color: #D9D7F1;
 	border-radius: 15px;
 }
-
-
 
 .info-cust {
 	color: black;
