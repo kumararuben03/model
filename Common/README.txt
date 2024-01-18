@@ -2,8 +2,8 @@ Common files:
 
 webgl-utils.js: standard utilities from google to set up a webgl context
 
-Shader1.js: functions to initialize shaders in the html file
+MV.js: our matrix/vector package. Documentation on website
 
-Shaders2.js: functions to initialize shaders that are in separate files
+initShaders.js: functions to initialize shaders in the html file
 
-MV1.js: our matrix/vector package. Documentation on website
+initShaders2.js: functions to initialize shaders that are in separate files
